@@ -1,0 +1,34 @@
+body{
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+
+input{
+   
+    border-radius: 5px;
+    padding-top: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+}
+
+textarea{
+   color: blue;
+   border-radius: 5px;
+   margin: 10px;
+   width: 25%;
+}
+
+label{
+    padding: 10px;
+}
+
+div.t-a{
+    
+    width: 35%;
+}
+
+div.t-a input{
+    background-color: #C7B9B9;
+    border: none;
+}
